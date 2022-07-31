@@ -1,1 +1,1 @@
-# My project with technology Tailwindcss v3
+# Create site with technology tailwindcss
