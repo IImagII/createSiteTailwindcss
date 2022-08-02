@@ -11,6 +11,9 @@
    .container {
       @apply max-w-[1080px];
    }
+   .btn {
+      @apply max-w-fit mt-6 inline-block py-[10px] px-8 tracking-tight font-normal text-xl text-white leading-6 text-center bg-lightred rounded-2xl shadow-customred;
+   }
 }
 .burger {
    height: 20px;
